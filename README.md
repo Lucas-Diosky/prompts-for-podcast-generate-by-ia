@@ -1,8 +1,8 @@
-# Podcash Dev Iniciante
+# Podcast Dev Iniciante
 
 ## Episódio: [Nunca Visto] - O Futuro da Tecnologia: IA e Desenvolvimento de Software
 
-Bem-vindos ao **Podcash Dev Iniciante**, o espaço para quem está começando no mundo da programação e quer entender as tendências tecnológicas mais relevantes. Eu sou Lucas Araújo, e hoje vamos falar sobre o impacto da Inteligência Artificial (IA) no futuro da tecnologia e no dia a dia dos desenvolvedores.
+Bem-vindos ao **Podcast Dev Iniciante**, o espaço para quem está começando no mundo da programação e quer entender as tendências tecnológicas mais relevantes. Eu sou Lucas Araújo, e hoje vamos falar sobre o impacto da Inteligência Artificial (IA) no futuro da tecnologia e no dia a dia dos desenvolvedores.
 
 ---
 
@@ -86,4 +86,4 @@ O futuro da tecnologia é realmente promissor, e a IA está no centro dessa revo
 
 ---
 
-Obrigado por ouvir o **Podcash Dev Iniciante**! Até o próximo episódio! 🚀
+Obrigado por ouvir o **Podcast Dev Iniciante**! Até o próximo episódio! 🚀
